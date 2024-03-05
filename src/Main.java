@@ -8,5 +8,6 @@ public class Main {
 
         String s = UUID.randomUUID().toString();
           System.out.println(s.replace("-",""));
+        System.out.println(s.replace("9",""));
     }
 }
