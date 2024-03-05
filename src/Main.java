@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Git_1.1");
 
         String s = UUID.randomUUID().toString();
-        System.out.println(s);
+          System.out.println(s.replace("-",""));
     }
 }
