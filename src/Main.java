@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("GIT_1");
-        System.out.println("Git_1.1");
+        System.out.println("Hello its GIT_1");
+        System.out.println("Hello its Git_1.1");
         }
     }
